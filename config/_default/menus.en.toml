@@ -1,0 +1,19 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Estudio"
+pre = "blogger"
+pageRef = "estudio"
+identifier = "Uup8zEu1Dv"
+weight = 9999
+
+[[main]]
+name = "Presentaciones"
+pre = "blogger"
+pageRef = "presentaciones"
+identifier = "dsNFtaMHM9"
+weight = 9999
+
+[[footer]]
+none = "none"
