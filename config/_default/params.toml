@@ -20,14 +20,12 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
-showRecentItems = 5
-showMoreLink = false
+showMoreLink = ""
 showMoreLinkDest = "/posts"
-cardView = false
+cardView = "Enable"
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "back.webp"
+homepageImage = "backtenango.webp"
 
 [article]
 showDate = true
@@ -68,6 +66,7 @@ groupByYear = true
 cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
+heroStyle = "background"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

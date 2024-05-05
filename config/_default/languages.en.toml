@@ -10,3 +10,10 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "logo.webp"
 secondaryLogo = "logo.webp"
+
+[author]
+image = "logo.webp"
+name = "Fátima R.N."
+headline = "Jaranera Huapanguera"
+bio = "Bio de Fátima"
+links = []

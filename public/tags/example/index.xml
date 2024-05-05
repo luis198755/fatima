@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fátima Huapanguera</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Fátima Huapanguera</description>
+    <title>Example on Fátima Huapanguera</title>
+    <link>http://localhost:1313/tags/example/</link>
+    <description>Recent content in Example on Fátima Huapanguera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Fátima R.N.</copyright>
-    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estudios</title>
       <link>http://localhost:1313/estudio/1714608312451-estudios/</link>
