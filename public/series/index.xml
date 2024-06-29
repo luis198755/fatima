@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Fátima Huapanguera</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://fatima.music-5.com/series/</link>
     <description>Recent content in Series on Fátima Huapanguera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Fátima R.N.</copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fatima.music-5.com/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
